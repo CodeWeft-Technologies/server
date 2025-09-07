@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+vosk
+torch
+transformers
+soundfile
+google-cloud-texttospeech
+python-dotenv
+requests
+gpt4all
